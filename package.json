@@ -1,6 +1,7 @@
 {
     "name": "test-npm-new",
     "version": "1.0.2",
+    "description": "testing how npm works",
     "bin": {
         "atech": "index.js"
     },
